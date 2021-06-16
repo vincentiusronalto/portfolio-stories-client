@@ -10,10 +10,10 @@ CLIENT : Material UI, React, Redux,
 <br /> 
 SERVER : Node-express, Mongo db - atlas
 
-Link to 
+github link to 
 [Client](https://github.com/vincentiusronalto/portfolio-stories-client)
 <br /> 
-Link to
+github link to
 [Server](https://github.com/vincentiusronalto/portfolio-stories-server)
 
 Client is deployed to Netlify
