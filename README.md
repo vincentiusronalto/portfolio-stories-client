@@ -1,7 +1,13 @@
-this project for Portfolio Stories
+this is repo for Portfolio Stories
+
+[See the Deployed App](https://github.com/vincentiusronalto/portfolio-stories-client)
+&nbsp;
+
 
 Stack : 
+&nbsp;
 CLIENT : MATERIAL UI, REACT, REDUX, 
+&nbsp;
 SERVER : NODE-EXPRESS, MONGO DB ATLAS
 
 Link to 
@@ -9,5 +15,5 @@ Link to
 Link to
 [Server](https://github.com/vincentiusronalto/portfolio-stories-server)
 
-Client deployed to Netlify
-Server deployed to Heroku
+Client is deployed to Netlify
+Server is deployed to Heroku
