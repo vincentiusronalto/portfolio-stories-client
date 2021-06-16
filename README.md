@@ -6,9 +6,9 @@ this is repo for Portfolio Stories
 
 Stack : 
 <br /> 
-CLIENT : MATERIAL UI, REACT, REDUX, 
+CLIENT : Material UI, React, Redux, 
 <br /> 
-SERVER : NODE-EXPRESS, MONGO DB ATLAS
+SERVER : Node-express, Mongo db - atlas
 
 Link to 
 [Client](https://github.com/vincentiusronalto/portfolio-stories-client)
